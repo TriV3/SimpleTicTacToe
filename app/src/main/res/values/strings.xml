@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTicTacToe</string>
+    <string name="Clear">Clear</string>
+    <string name="cpu_start">CPU</string>
+    <string name="human_start">Human</string>
+    <string name="cpu_level">Level</string>
+
+    <string-array name="cpu_levels">
+        <item>Insane</item>
+        <item>Master</item>
+        <item>Casual</item>
+        <item>Novice</item>
+    </string-array>
+
+</resources>
